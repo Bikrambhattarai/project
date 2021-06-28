@@ -1,0 +1,100 @@
+body{
+  background-color: azure;
+  text-align: center;
+}
+#article{
+  background-color: azure;
+  margin: 3% 10% 0 10%;
+}
+#Skills{
+  background-color: #444444;
+  color: white;
+}
+.skills{
+  padding: 12px;
+  text-align: center;
+}
+h1{
+  font-size: 3rem;
+  font-weight: bold;
+}
+h2{
+  text-align: center;
+  margin-bottom: 0.8em;
+}
+h3{
+  text-align: center;
+}
+.intro{
+  margin-top: 5%;
+  padding:5% 5% 0 5%;
+  text-align: center;
+}
+.html-png{
+  margin:1em 0 0.8em 0;
+}
+.css-png{
+  margin:1em 0 0.8em 0;
+}
+.bootstrap-png{
+  margin:1em 0 0.8em 0;
+}
+
+
+.img-fluid{
+  text-align: center;
+}
+.navbar{
+  font-family: cursive;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.nav-link:hover,.navbar-brand:hover{
+  text-shadow: none;
+  color:green;
+  font-size: 1.5em;
+}
+#contact-me{
+  background-color: #0A1931;
+  color: green;
+  padding: 2% 0 0 0;
+}
+
+.contact-me{
+padding-bottom: 3%
+}
+
+#footer{
+  padding: 2% 0 1% 0;
+}
+a{
+  text-decoration: none;
+  font-family: cursive;
+  font-size: 20px;
+}
+p{
+  text-decoration: none;
+  font-family: cursive;
+  font-size: 20px;
+
+}
+hr{
+border: dotted #EA6F6F 6px;
+border-bottom: none;
+margin:100px auto;
+width: 4%;
+background-color: transparent;
+}
+.html-description{
+  text-align: justify;
+}
+.css-description{
+  text-align: justify;
+}
+.bootstrap-description{
+  text-align: justify;
+}
+
+.contact{
+  padding: 0 30% 0 30%;
+}
